@@ -1,4 +1,4 @@
-# 🍞 Bakery Website
+#  Bakery Website
 
 Welcome to **Bakery Website**, a modern and elegant bakery website that showcases delicious baked goods with a clean and user-friendly design.
 
